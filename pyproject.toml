@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ss_autoencoder"
+authors = [
+	{name = "Sakshi Krishna"}
+	{name = "David A Diaz"}
+	{name = "Kendra Frederick"}
+]
+description = "Python scripts used for analysis of dihedral angles and chemical shifts"
+version = "0.1.0"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12.12"
+
+dependencies = [
+	"numpy>=2.0.2",
+	"pandas>=2.2.2",
+	"matplotlib>=3.10",
+	"scikit-learn>=1.6.1",
+	"statsmodles>=0.14.6"
+	"scipy>=1.16.3"
+]
