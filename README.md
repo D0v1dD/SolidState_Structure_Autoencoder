@@ -6,7 +6,7 @@ Python Dependencies can be downloaded by the pyproject.toml, and installation ca
 ```
 python -m install python .
 ``` 
-Alternatively code can be run by google colab [Colab](https://colab.research.google.com/drive/1oU3fTnvnRfcjYFRIiiwg-4MjlpMSE862?usp=sharing)
+Alternatively code can be run by google colab [Colab]()
 
 File Summary:
 |File Name|Description|
